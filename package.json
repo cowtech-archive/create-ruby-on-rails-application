@@ -1,6 +1,6 @@
 {
   "name": "@cowtech/create-ruby-on-rails-application",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CowTech Template: Ruby on Rails application",
   "main": "index.js",
   "files": [
