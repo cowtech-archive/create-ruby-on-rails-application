@@ -1,4 +1,4 @@
-# @cowtech/create-node-application
+# @cowtech/create-ruby-on-rails-application
 
 Boilerplate for a Ruby on Rails application.
 
