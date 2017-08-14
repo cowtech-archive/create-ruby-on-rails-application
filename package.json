@@ -35,6 +35,7 @@
   },
   "devDependencies": {
     "@cowtech/eslint-config": "~4.4",
+    "@cowtech/package-utils": "~0.2",
     "eslint": "~4.4"
   }
 }
