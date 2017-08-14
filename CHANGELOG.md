@@ -1,3 +1,8 @@
+### 2017-08-14 / 0.1.0
+
+* Updated dependencies.
+* Added linting.
+
 ### 2017-06-28 / 0.0.3
 
 * Fixed README.
