@@ -10,8 +10,8 @@
     fs-extra "~5.0"
 
 "@cowtech/eslint-config@~4.18":
-  version "4.18.0"
-  resolved "https://registry.yarnpkg.com/@cowtech/eslint-config/-/eslint-config-4.18.0.tgz#5e01868ff882e1b6fe56256e6b55ccd8852b6cb1"
+  version "4.18.1"
+  resolved "https://registry.yarnpkg.com/@cowtech/eslint-config/-/eslint-config-4.18.1.tgz#4bfdfec18f73a899f9fff0a87ad4c07d9752b962"
   dependencies:
     eslint "~4.18"
 

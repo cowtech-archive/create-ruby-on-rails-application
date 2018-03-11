@@ -1,3 +1,7 @@
+### 2018-03-11 / 0.1.4
+
+* Updated linting.
+
 ### 2018-03-11 / 0.1.3
 
 * Updated dependencies.
