@@ -1,5 +1,7 @@
 # @cowtech/create-ruby-on-rails-application
 
+## END OF DEVELOPMENT NOTICE - This package has been discontinued
+
 Boilerplate for a Ruby on Rails application.
 
 ## Copyright
